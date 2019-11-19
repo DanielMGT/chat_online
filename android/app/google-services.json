@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543912365217",
+    "firebase_url": "https://chat-online-686d9.firebaseio.com",
+    "project_id": "chat-online-686d9",
+    "storage_bucket": "chat-online-686d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543912365217:android:42edfe93207fdf1939b4e0",
+        "android_client_info": {
+          "package_name": "com.tavares.daniel.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543912365217-b229ovlv5j4kh8k0l0anpdh03seobkg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSZZxWuSF_ULBQ9VfBm2-Dn6FKZu74n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543912365217-b229ovlv5j4kh8k0l0anpdh03seobkg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
